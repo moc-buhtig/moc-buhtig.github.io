@@ -1,5 +1,3 @@
-# moc-buhtig.github.io
-
-These are moc-buhtig's projects
+# moc-buhtig-projects
 
 LightAPRS for nearspaceproject -> https://moc-buhtig.github.io/NSP-LightAPRS/
